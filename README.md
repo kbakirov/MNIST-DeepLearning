@@ -8,3 +8,4 @@ Launching JupyterNotebook as we did before
 ###Front-end
 Installing web server and executing index.html
 ###Back-end
+Installing backend server and running python script
