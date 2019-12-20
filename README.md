@@ -10,3 +10,4 @@ Installing web server and executing index.html
 ###Back-end
 Installing backend server and running python script
 ##Finish and Result
+picture as a Result
