@@ -3,6 +3,7 @@ Reading handwritten digits
 
 ##Architecture
 There will be picture(Architecture) of DeepLearning algorithm
+
 ###Jupyter-Notebook
 Launching JupyterNotebook as we did before
 
@@ -20,5 +21,6 @@ sudo apt install nginx
 ###Back-end
 Installing backend server and running python script
 - open port 5000
+
 ##Finish and Result
 picture as a Result
