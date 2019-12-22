@@ -26,6 +26,13 @@ Installing backend server and running python script
 wget httрs://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 sh Miniconda3-latest-Linux-x86_64.sh
 ```
+- create virtual environment / install requirements.txt
+```
+conda create -n backend
+conda activate backend
+conda install opencv
+pip install -r requirements.txt
+```
 
 ##Finish and Result
 picture as a Result
