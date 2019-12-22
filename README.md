@@ -13,6 +13,7 @@ Installing web server and executing index.html
 sudo apt update
 sudo apt install nginx
 ```
+- copy index.html and static folder in /var/www/html/
 ###Back-end
 Installing backend server and running python script
 ##Finish and Result
