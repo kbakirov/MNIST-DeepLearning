@@ -1,7 +1,7 @@
 # MNIST-DeepLearning
 Reading handwritten digits
 
-##Architecture
+## Architecture
 There will be picture(Architecture) of DeepLearning algorithm
 
 ###Jupyter-Notebook
@@ -18,7 +18,7 @@ sudo apt install nginx
 - copy index.html and static folder in /var/www/html/
 - modify index.html with your BACKEND public IP.
 
-###Back-end
+### Back-end
 Installing backend server and running python script
 - open port 5000
 - install Miniconda
