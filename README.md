@@ -22,6 +22,10 @@ sudo apt install nginx
 Installing backend server and running python script
 - open port 5000
 - install Miniconda
+```
+wget httрs://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+sh Miniconda3-latest-Linux-x86_64.sh
+```
 
 ##Finish and Result
 picture as a Result
