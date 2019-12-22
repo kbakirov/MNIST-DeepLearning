@@ -4,10 +4,10 @@ Reading handwritten digits
 ## Architecture
 There will be picture(Architecture) of DeepLearning algorithm
 
-###Jupyter-Notebook
+### Jupyter-Notebook
 Launching JupyterNotebook as we did before
 
-###Front-end
+### Front-end
 Installing web server and executing index.html
 - open port 80 for web access
 - install nginx
@@ -34,5 +34,5 @@ conda install opencv
 pip install -r requirements.txt
 ```
 
-##Finish and Result
+## Finish and Result
 picture as a Result
