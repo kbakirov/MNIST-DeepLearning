@@ -17,5 +17,6 @@ sudo apt install nginx
 - modify index.html with your BACKEND public IP.
 ###Back-end
 Installing backend server and running python script
+- open port 5000 
 ##Finish and Result
 picture as a Result
