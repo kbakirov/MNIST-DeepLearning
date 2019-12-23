@@ -34,6 +34,8 @@ conda install opencv
 pip install -r requirements.txt
 ```
 - copy cnn-minst / keras_flask.py
-- 
+- launch keras_flask.py
+
+
 ## Finish and Result
 picture as a Result
