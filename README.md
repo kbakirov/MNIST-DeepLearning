@@ -3,7 +3,7 @@ Reading handwritten digits
 
 ## Architecture
 There will be picture(Architecture) of DeepLearning algorithm
-[!](MNIST_structure.png)
+![structure](MNIST_structure.png)
 
 ### Jupyter-Notebook
 Launching Jupyter Notebook as we did before
