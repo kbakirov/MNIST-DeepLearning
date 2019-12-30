@@ -39,8 +39,3 @@ pip install -r requirements.txt
 ```
 python keras_flask.py
 ```
-## Pre-Finish
-## MNIST Deep DeepLearning
-
-## Finish and Result
-picture as a Result
