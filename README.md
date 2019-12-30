@@ -2,7 +2,7 @@
 Reading handwritten digits
 
 ## Architecture
-There will be picture(Architecture) of DeepLearning algorithm
+Architecture of DeepLearning algorithm
 ![structure](MNIST_structure.png)
 
 ### Jupyter-Notebook
